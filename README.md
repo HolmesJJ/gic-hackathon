@@ -32,7 +32,8 @@ Here I list 4 architectures, I strongly recommend architecture 4 or use architec
 Currently I am using my own AWS account for testing, I released 4 IAM accounts under my account with full permission for backup tomorrow, if we get in trouble when using the AWS account they provided, I think we can just use my account. I have $100 credits and I think it should be enough for it.
 
 ## Amplify
-I also tried to host a web developed by react using AWS Amplify and GitHub, it is quite smooth and easy to use.
+I also tried to host a web developed by react using AWS Amplify and GitHub, it is quite smooth and easy to use. https://github.com/HolmesJJ/gic-hackathon-amplify
+
 You may test it under the link below:
 * https://master.d342064p5w74fc.amplifyapp.com/
 * username: hjj / kk / lwk / yzl / hx
