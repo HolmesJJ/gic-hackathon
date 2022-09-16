@@ -1,7 +1,3 @@
-boto3
 Flask
-pandas
-requests
-waitress
 flask-cors
 mysql-connector-python==8.0.29

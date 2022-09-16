@@ -4,6 +4,7 @@
 *.pyo
 *.log
 *.tmp
+*.pem
 .idea/
 .ipynb_checkpoints
 __pycache__/
